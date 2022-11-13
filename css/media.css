@@ -12,8 +12,8 @@ height: 60px;
     }
     #kinobd-iframe
     {
- min-width:327px;
-        min-height:245px;
+ max-width:327px;
+        max-height:245px;
     }
     .menu_appu_qwes12690D h3
     {
